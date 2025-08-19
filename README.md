@@ -137,7 +137,7 @@ Utilizar o modelo de Regressão Logística com melhorias e threshold ajustado co
 ### 2. Carregar os dados
        Coloque o arquivo dados_tratados_.csv na pasta data/.
 ### 3. Executar o notebook
-      Abra o notebook notebook/churn_analysis.ipynb e execute as células passo a passo.
+      Execute as células passo a passo.
 ### 4. Carregar o modelo treinado
       import pickle
       with open('modelo/modelo_treinado.pkl', 'rb') as file:
