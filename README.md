@@ -1,4 +1,4 @@
-# Challenge_ONE_Data_Science_TelecomX-_2---Prevendo-Churn
+# TelecomX_parte2_BR
 # 📊 Previsão de Evasão de Clientes (Churn Prediction)
 
 Este projeto tem como objetivo prever a **evasão de clientes (churn)** em uma empresa de telecomunicações com base em variáveis comportamentais, contratuais e demográficas. A análise foi conduzida com técnicas de ciência de dados, aprendizado de máquina e visualização para identificar os principais fatores que influenciam a saída de clientes e propor estratégias de retenção.
